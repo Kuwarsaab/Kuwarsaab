@@ -3,6 +3,22 @@
 
 # Hi there 👋, I'm K Krit Vardhan!
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h3 align="center">A passionate programmer from India </h3>
+
+<br/>
+
+<p align="center">
+  <img src="animated.gif" align="center" width="90%" />
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 I'm an aspiring **Software Developer** with a passion for building innovative solutions. I recently completed my **B.Tech in Information Technology** from **Bansal Institute of Engineering and Technology, Lucknow (2023)**.
 
 ### 🛠️ My Tech Stack
