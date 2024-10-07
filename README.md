@@ -31,11 +31,14 @@
 
 - 👋 Hi, I’m K Krit Vardhan
 - 👀 I’m interested in football, cricket and Esports.
-- 💞️ I use languages such as Java,HTML,CSS,JavaScript,Spring,Springboot and so on.
-- 📫 How to reach me (https://github.com/Kuwarsaab/Personal-Portfolio)
-- 😄 Pronouns:He 
-- ⚡ Fun fact:I am good at every thing.
+- 🔭 I’m currently working on improving my skills in **backend development** with Java and SpringBoot.
+- 🌱 I’m also learning **full-stack development** to become a well-rounded developer.
+- 💬 Ask me about **Java, SpringBoot, MySQL**, and **Web Development**.
  </div>
+
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ### 🛠️ My Tech Stack
 - **Languages:** Java, JavaScript, HTML, CSS
@@ -43,15 +46,22 @@
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, Visual Studio Code, IntelliJ 
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on improving my skills in **backend development** with Java and SpringBoot.
-- 🌱 I’m also learning **full-stack development** to become a well-rounded developer.
-- 💬 Ask me about **Java, SpringBoot, MySQL**, and **Web Development**.
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-### 📫 How to Reach Me:
-- **Email:** kuwarkritvardhan@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/k-krit-vardhan)
-- **GitHub:** [Check out my projects](https://github.com/Kuwarsaab)
+<div align="center"> 
+  <a href=mailto:"kuwarkritvardhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/k-krit-vardhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ### ⚡ My Projects
 - [Smart Home Automation](https://github.com/johndoe/smart-home) - A Python and IoT-based system for smart homes.
