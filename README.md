@@ -1,4 +1,5 @@
-![Cool Animation](https://github.com/Kuwarsaab/Kuwarsaab/blob/main/assets/devgiffy.gif)
+![Hello World](https://github.com/Kuwarsaab/Kuwarsaab/blob/main/devgiffy.gif)
+
 
 # Hi there 👋, I'm K Krit Vardhan!
 
