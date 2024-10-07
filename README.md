@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+K+Krit+Vardhan!;">
 </h1>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 <h3 align="center">A Passionate Programmer from India </h3>
 
 <br/>
@@ -60,11 +56,11 @@
 </h3>
 
 <div align="center"> 
-  <a href=mailto:"kuwarkritvardhan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/k-krit-vardhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href=mailto:"kuwarkritvardhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 
@@ -81,6 +77,4 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
----
-
-Let's connect and build something amazing together!
+<h3 align="center">Let's connect and build something amazing together!</h3>
