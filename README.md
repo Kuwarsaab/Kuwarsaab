@@ -40,13 +40,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<div align="center">
 ### 🛠️ My Tech Stack
 - **Languages:** Java, JavaScript, HTML, CSS
 - **Frameworks:** Spring, SpringBoot
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, Visual Studio Code, IntelliJ 
-</div>
+
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+### ⚡ My Projects
+- [Spring Learning Project](https://github.com/Kuwarsaab/Learn-Spring-Framework) - A Java Spring Project for learning and understanding the framework.
+- [Wrapkart](https://github.com/Kuwarsaab/WrapKart-The-Perfect-drip) - A full-stack e-commerce site built with HTML,CSS,JS and PHP.
+- [Chat Application](https://github.com/Kuwarsaab/Chat-App) - A cross-platform chat app built using Java and Socket Programming.
 
  <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -64,11 +71,6 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-### ⚡ My Projects
-- [Spring Learning Project](https://github.com/Kuwarsaab/Learn-Spring-Framework) - A Java Spring Project for learning and understanding the framework.
-- [Wrapkart](https://github.com/Kuwarsaab/WrapKart-The-Perfect-drip) - A full-stack e-commerce site built with HTML,CSS,JS and PHP.
-- [Chat Application](https://github.com/Kuwarsaab/Chat-App) - A cross-platform chat app built using Java and Socket Programming.
 
 ### 📈 GitHub Stats
 ![K Krit Vardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuwarsaab&show_icons=true&theme=radical)
