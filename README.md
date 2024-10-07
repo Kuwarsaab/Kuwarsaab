@@ -1,4 +1,6 @@
-[![Matrix SVG](https://github.com/Kuwarsaab/Kuwarsaab/blob/main/dev.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p align="center">
+  <img src="dev.gif" width="200" height="100" alt="Description of the GIF">
+</p>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
