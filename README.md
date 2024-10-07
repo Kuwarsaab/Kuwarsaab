@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dev.gif" width="900" height="700" alt="Description of the GIF">
+  <img src="dev.gif" width="900" height="500" alt="Description of the GIF">
 </p>
 
 <h3 align="center">
