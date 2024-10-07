@@ -1,3 +1,5 @@
+![Cool Animation](https://github.com/Kuwarsaab/Kuwarsaab/blob/main/assets/devgiffy.gif)
+
 # Hi there 👋, I'm K Krit Vardhan!
 
 I'm an aspiring **Software Developer** with a passion for building innovative solutions. I recently completed my **B.Tech in Information Technology** from **Bansal Institute of Engineering and Technology, Lucknow (2023)**.
