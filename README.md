@@ -72,11 +72,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-### 📈 GitHub Stats
-![K Krit Vardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuwarsaab&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuwarsaab&show_icons=true&theme=radical" alt="K Krit Vardhan's GitHub stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwarsaab&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
+</div>
 
-### 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwarsaab&layout=compact&theme=radical)
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ---
 
