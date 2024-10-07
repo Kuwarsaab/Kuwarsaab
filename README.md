@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="dev.gif" width="900" height="500" alt="Description of the GIF">
-</p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -14,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h3 align="center">A passionate programmer from India </h3>
+<h3 align="center">A Passionate Programmer from India </h3>
 
 <br/>
 
@@ -26,7 +24,18 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-I'm an aspiring **Software Developer** with a passion for building innovative solutions. I recently completed my **B.Tech in Information Technology** from **Bansal Institute of Engineering and Technology, Lucknow (2023)**.
+<div align="center">
+  
+ ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+- 👋 Hi, I’m K Krit Vardhan
+- 👀 I’m interested in football, cricket and Esports.
+- 💞️ I use languages such as Java,HTML,CSS,JavaScript,Spring,Springboot and so on.
+- 📫 How to reach me (https://github.com/Kuwarsaab/Personal-Portfolio)
+- 😄 Pronouns:He 
+- ⚡ Fun fact:I am good at every thing.
+ </div>
 
 ### 🛠️ My Tech Stack
 - **Languages:** Java, JavaScript, HTML, CSS
