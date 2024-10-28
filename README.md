@@ -30,6 +30,7 @@
 - 🔭 I’m currently working on improving my skills in **backend development** with Java and SpringBoot.
 - 🌱 I’m also learning **full-stack development** to become a well-rounded developer.
 - 💬 Ask me about **Java, SpringBoot, MySQL**, and **Web Development**.
+- Portfolio - https://kuwarsaab.github.io/Krit_Portfolio/
  </div>
 
  <h3 align="center">
